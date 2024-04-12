@@ -12,7 +12,7 @@ function About() {
         <h1> ABOUT US</h1>
         <ul class="hello"> 
          <li>Akhil's Pizeeria is Leading Restaurant since Couple of Decades ago</li>
-         <li>It serves so many types of healthy fastfood </li> 
+         <li>It serves so many types of healthy fastfoods </li> 
          <li>Pizza is one of the special dish of this restaurant at affordable prices</li> 
         <li>And customers are given much more priority it will have good environment</li>
         <li>Nowadays you can order food from Swiggy and Zomato as well please visit us</li>
